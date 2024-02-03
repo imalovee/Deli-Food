@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deli-Food</string>
+    <string name="offers">Offers</string>
+    <string name="fries">Fries</string>
+    <string name="pizza">Pizza</string>
+    <string name="parfait">Parfait</string>
+    <string name="salad">Salad</string>
+    <string name="rice">Rice</string>
+    <string name="coffee">Coffee</string>
+    <string name="burger">Burger</string>
+
+</resources>
